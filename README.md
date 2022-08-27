@@ -37,6 +37,7 @@
 |Topic|ETC|
 |------|---|
 |[SwiftUI로 Mac App 만들기](https://github.com/chaneeii/iOS-Study-Log/issues/5)|`UPDATING`|
+|[SwiftUI의 DataFlow](https://github.com/chaneeii/iOS-Study-Log/issues/34)||
 
 ## iOS
 |Topic|ETC|
